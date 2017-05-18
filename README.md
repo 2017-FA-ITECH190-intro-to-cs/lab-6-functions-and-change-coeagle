@@ -1,4 +1,4 @@
-# Introductiong to Computer Science
+# Introductiong to Computer Science - Fall 2017
 
 ## Lab 6 - Functions and Change
 
