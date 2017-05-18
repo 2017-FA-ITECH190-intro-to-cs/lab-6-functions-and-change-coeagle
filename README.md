@@ -4,7 +4,7 @@
 
 **Purpose:** The purpose of this lab is to get some experience using functions in JavaScript. You will also practice using the `<script>` HTML element. You will design and write a simple web page that computes the number of coins and their denominations that might be used in making change.
 
-**Practice:** Study the [JavaScript demos]. Pay attention to the demos under the **function** heading.
+**Practice:** Study the [JavaScript demos](http://itech190.erickuha.com/). Pay attention to the demos under the **function** heading.
 
 **Instructions:** Create a web page called _makeChange.html_ that serves as a way to convert any number of pennies into as few coins as possible, using quarters, dimes, and nickels. The page should start out with a brief description of what the web page does and what the user of the page should do to use the page.
 
