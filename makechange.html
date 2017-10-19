@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    <meta charset="UTF-8">
+<title>your change</title>
+<script>
+		function makechange() {
+			quarters = Math.floor(pennys/25);
+			dimes = Math.floor(pennys/10);
+			nickels = Math.floor(pennys/5);
+			document.getElementById('output').innerHTML=
+				'The total number of coins'+ quarters+ ;
+		}		
+	</script>
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body>
+    <p>
+        Enter a number of pennies and see what kind of change that can be made
+    </p>
+   
+    <hr>
+    
+    <h1>
+        Please enter the amount of pennys you got:
+        <h1>
+   
+    Your pennys=
+    <input type="text" id="pennys"/>
+        
+<input type="button" value="HitMeh" onclick="makechange();"/>
+	
+	<hr>
+	
+	<div id="output"></div>
+    
+</body>
+
+</html>
